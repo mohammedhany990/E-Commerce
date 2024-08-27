@@ -1,0 +1,15 @@
+E:\CodePractice\C#\ECommerce\Demo.BBL\bin\Debug\net8.0\Demo.BBL.deps.json
+E:\CodePractice\C#\ECommerce\Demo.BBL\bin\Debug\net8.0\Demo.BBL.dll
+E:\CodePractice\C#\ECommerce\Demo.BBL\bin\Debug\net8.0\Demo.BBL.pdb
+E:\CodePractice\C#\ECommerce\Demo.BBL\bin\Debug\net8.0\Demo.DAL.dll
+E:\CodePractice\C#\ECommerce\Demo.BBL\bin\Debug\net8.0\Demo.DAL.pdb
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\Demo.BBL.csproj.AssemblyReference.cache
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\Demo.BBL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\Demo.BBL.AssemblyInfoInputs.cache
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\Demo.BBL.AssemblyInfo.cs
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\Demo.BBL.csproj.CoreCompileInputs.cache
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\Demo.BBL.csproj.Up2Date
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\Demo.BBL.dll
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\refint\Demo.BBL.dll
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\Demo.BBL.pdb
+E:\CodePractice\C#\ECommerce\Demo.BBL\obj\Debug\net8.0\ref\Demo.BBL.dll

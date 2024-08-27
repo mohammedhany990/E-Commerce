@@ -1,0 +1,37 @@
+﻿@model CompanyViewModel
+
+<div class="form-floating py-2 col-12">
+    <input asp-for="Name" class="form-control border-0 shadow" />
+    <label asp-for="Name" class="ms-2"></label>
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+
+<div class="form-floating py-2 col-12">
+    <textarea asp-for="PhoneNumber" class="form-control border-0 shadow"></textarea>
+    <label asp-for="PhoneNumber" class="ms-2"></label>
+    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+</div>
+
+<div class="form-floating py-2 col-12">
+    <input asp-for="StreetAddress" class="form-control border-0 shadow" />
+    <label asp-for="StreetAddress" class="ms-2"></label>
+    <span asp-validation-for="StreetAddress" class="text-danger"></span>
+</div>
+
+<div class="form-floating py-2 col-12">
+    <input asp-for="City" class="form-control border-0 shadow" />
+    <label asp-for="City" class="ms-2"></label>
+    <span asp-validation-for="City" class="text-danger"></span>
+</div>
+
+<div class="form-floating py-2 col-12">
+    <input asp-for="State" class="form-control border-0 shadow" />
+    <label asp-for="State" class="ms-2"></label>
+    <span asp-validation-for="State" class="text-danger"></span>
+</div>
+
+<div class="form-floating py-2 col-12">
+    <input asp-for="PostalCode" class="form-control border-0 shadow" />
+    <label asp-for="PostalCode" class="ms-2"></label>
+    <span asp-validation-for="PostalCode" class="text-danger"></span>
+</div>

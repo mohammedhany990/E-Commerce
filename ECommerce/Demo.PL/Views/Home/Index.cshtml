@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ProductViewModel>
+
+<div class="row pb-3">
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6">
+            <div class="row p-2">
+                <div class="col-12 p-1">
+                    <div class="card border-0 p-3 shadow border-top border-5 rounded" style="height: 100%;">
+
+                        <div class="text-center">
+                            @if (product.ProductImages?.Count() > 0)
+                            {
+                                <img src="~/Images/Products/Product-@product.Id/@product.ProductImages.FirstOrDefault(i => i.ProductId == product.Id).ImageName"
+                                     class="card-img-top rounded"
+                                     style="width: 100%; height: 250px; object-fit: contain;" />
+                            }
+                            else
+                            {
+                                <img src="https://placehold.co/500x600/png"
+                                     class="card-img-top rounded"
+                                     style="width: 100%; height: 250px; object-fit: contain;" />
+                            }
+                        </div>
+
+                        <div class="card-body d-flex flex-column justify-content-between pb-0" style="height: 200px;">
+                            <div>
+                                <p class="card-title h5 text-dark opacity-75 text-uppercase text-center">@product.Title</p>
+                                <p class="card-title text-warning text-center">by <b>@product.Author</b></p>
+                            </div>
+                            <div>
+                                <p class="text-dark text-opacity-75 text-center mb-0">
+                                    List Price: <span class="text-decoration-line-through">@product.ListPrice.ToString("c")</span>
+                                </p>
+                                <p class="text-dark text-opacity-75 text-center">
+                                    As low as: <span>@product.Price100.ToString("c")</span>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="text-center mt-auto">
+                            <a asp-action="Details" asp-route-id="@product.Id" class="btn btn-primary bg-gradient border-0 form-control">
+                                Details
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section ValidationSectionScripts
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

@@ -1,0 +1,209 @@
+﻿@model ProductViewModel
+
+@{
+    var categoryName = ViewBag.CategoryName;
+}
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Delete Product</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form asp-action="Delete" asp-controller="Product" method="post" class="row" enctype="multipart/form-data">
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="ProductImages" />
+            <input type="hidden" asp-for="Title" />
+            <input type="hidden" asp-for="Description" />
+            <input type="hidden" asp-for="ISBN" />
+            <input type="hidden" asp-for="Author" />
+            <input type="hidden" asp-for="ListPrice" />
+            <input type="hidden" asp-for="Price" />
+            <input type="hidden" asp-for="Price50" />
+            <input type="hidden" asp-for="Price100" />
+            <input type="hidden" name="CategoryName" value="@categoryName" />
+
+            <div class="row">
+                <div class="col-10">
+                    <div class="border p-3">
+
+                       
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Title" class="form-control border-0 shadow" readonly />
+                            <label asp-for="Title" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <textarea asp-for="Description" class="form-control  border-0 shadow" readonly></textarea>
+                            <label asp-for="Description" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="ISBN" class="form-control  border-0 shadow" readonly />
+                            <label asp-for="ISBN" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Author" class="form-control  border-0 shadow" readonly />
+                            <label asp-for="Author" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="ListPrice" class="form-control  border-0 shadow" readonly />
+                            <label asp-for="ListPrice" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Price" class="form-control  border-0 shadow" readonly />
+                            <label asp-for="Price" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Price50" class="form-control  border-0 shadow" readonly />
+                            <label asp-for="Price50" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Price100" class="form-control  border-0 shadow" readonly />
+                            <label asp-for="Price100" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input class="form-control border-0 shadow" value="@categoryName" readonly />
+                            <label asp-for="Category" class="ms-2"></label>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-6 col-md-3 p-3">
+                                <button type="submit" class="btn btn-danger form-control">Delete</button>
+                            </div>
+                            <div class="col-6 col-md-3 p-3">
+                                <a asp-controller="Product" asp-action="Index" class="btn btn-outline-secondary border form-control">Back</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                @if (Model.ProductImages?.Count() > 0)
+                {
+                    <div class="col-2">
+                        @if (Model.ProductImages?.Count() > 0)
+                        {
+                            foreach (var image in Model.ProductImages)
+                            {
+                                <div class="border p-1 m-2 text-center">
+                                    <img src="~/Images/Products/product-@image.ProductId/@image.ImageName" width="100%"
+                                         style="border-radius:5px; border:1px solid #bbb9b9" />
+
+                                </div>
+                            }
+                        }
+                    </div>
+                }
+            </div>
+        </form>
+    </div>
+</div>
+
+@*
+@model ProductViewModel
+
+@{
+    var categoryName = ViewBag.CategoryName;
+}
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Delete Product</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form asp-action="Delete" method="post" class="row" enctype="multipart/form-data">
+            <input type="hidden" asp-for="Id" />
+            <div class="row">
+
+                <div class="col-10">
+                    <div class="border p-3">
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="ImageName" class="form-control border-0 shadow" disabled />
+                            <label asp-for="ImageName" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Title" class="form-control border-0 shadow" disabled />
+                            <label asp-for="Title" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <textarea asp-for="Description" class="form-control  border-0 shadow" disabled></textarea>
+                            <label asp-for="Description" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="ISBN" class="form-control  border-0 shadow" disabled />
+                            <label asp-for="ISBN" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Author" class="form-control  border-0 shadow" disabled />
+                            <label asp-for="Author" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="ListPrice" class="form-control  border-0 shadow" disabled />
+                            <label asp-for="ListPrice" class="ms-2"></label>
+                        </div>
+
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Price" class="form-control  border-0 shadow" disabled />
+                            <label asp-for="Price" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Price50" class="form-control  border-0 shadow" disabled />
+                            <label asp-for="Price50" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Price100" class="form-control  border-0 shadow" disabled />
+                            <label asp-for="Price100" class="ms-2"></label>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="@categoryName" class="form-control  border-0 shadow" disabled />
+                            <label asp-for="Category" class="ms-2"></label>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-6 col-md-3 p-3">
+                                <button type="submit"  class="btn btn-danger form-control">Delete</button>
+                            </div>
+                            <div class="col-6 col-md-3 p-3">
+                                <a asp-controller="Product" asp-action="Index" class="btn btn-outline-secondary border form-control">Back</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-2">
+                    <img src="~/Images/Product/@Model.ImageName" width="100%"
+                         style="border-radius:5px; border:1px solid #bbb9b9" />
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+*@

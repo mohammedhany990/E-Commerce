@@ -1,0 +1,12 @@
+E:\CodePractice\C#\ECommerce\Demo.DAL\bin\Debug\net8.0\Demo.DAL.deps.json
+E:\CodePractice\C#\ECommerce\Demo.DAL\bin\Debug\net8.0\Demo.DAL.dll
+E:\CodePractice\C#\ECommerce\Demo.DAL\bin\Debug\net8.0\Demo.DAL.pdb
+E:\CodePractice\C#\ECommerce\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\CodePractice\C#\ECommerce\Demo.DAL\obj\Debug\net8.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\C#\ECommerce\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\CodePractice\C#\ECommerce\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfo.cs
+E:\CodePractice\C#\ECommerce\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\CodePractice\C#\ECommerce\Demo.DAL\obj\Debug\net8.0\Demo.DAL.dll
+E:\CodePractice\C#\ECommerce\Demo.DAL\obj\Debug\net8.0\refint\Demo.DAL.dll
+E:\CodePractice\C#\ECommerce\Demo.DAL\obj\Debug\net8.0\Demo.DAL.pdb
+E:\CodePractice\C#\ECommerce\Demo.DAL\obj\Debug\net8.0\ref\Demo.DAL.dll

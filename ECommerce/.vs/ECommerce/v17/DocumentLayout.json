@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CodePractice\\C#\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|e:\\codepractice\\c#\\ecommerce\\demo.pl\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|e:\\codepractice\\c#\\ecommerce\\demo.pl\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|e:\\codepractice\\c#\\ecommerce\\demo.pl\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|e:\\codepractice\\c#\\ecommerce\\demo.pl\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|e:\\codepractice\\c#\\ecommerce\\demo.pl\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|e:\\codepractice\\c#\\ecommerce\\demo.pl\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|e:\\codepractice\\c#\\ecommerce\\demo.pl\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF670F87-C369-4B5A-BC41-6E5A36308B6C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAArwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:36:38.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\CompanyController.cs",
+              "ToolTip": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:22:56.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Demo.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAADwv58AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:14:13.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Demo.PL\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T23:14:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T23:05:32.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T23:05:26.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:38:20.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

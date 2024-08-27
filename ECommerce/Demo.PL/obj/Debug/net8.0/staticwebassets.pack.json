@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.PL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Demo.PL.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Product\\40d6ad20-1207-48b2-b1f1-8f72169cf226vanish in the sunset.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\40d6ad20-1207-48b2-b1f1-8f72169cf226vanish in the sunset.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Product\\a66d6bfd-60d5-48aa-8ddb-55405d7e6774cotton candy.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\a66d6bfd-60d5-48aa-8ddb-55405d7e6774cotton candy.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Product\\b36a65fd-b560-445e-9aba-2b98257ea3b1rock in the ocean.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\b36a65fd-b560-445e-9aba-2b98257ea3b1rock in the ocean.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Product\\e5eb0d96-df02-4b7d-b657-b17963995261leaves and wonders.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\e5eb0d96-df02-4b7d-b657-b17963995261leaves and wonders.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Product\\fcb04875-8200-4014-9293-d63d20a46db1fortune of time.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\fcb04875-8200-4014-9293-d63d20a46db1fortune of time.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-10\\880953e4-95b2-4529-9212-935e310004b0The_Buried_Giant.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-10\\880953e4-95b2-4529-9212-935e310004b0The_Buried_Giant.png"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-11\\bfbbda20-8d63-4d38-aedd-d0e2f2ee891aGoodomenscover.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-11\\bfbbda20-8d63-4d38-aedd-d0e2f2ee891aGoodomenscover.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-12\\a90623b0-136c-480e-b4c2-b19ad50a9b18BriefHistoryTime.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-12\\a90623b0-136c-480e-b4c2-b19ad50a9b18BriefHistoryTime.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-13\\6d49a9ad-371e-4f3e-a8fe-9e7d19404cdcTheElegantUniverse.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-13\\6d49a9ad-371e-4f3e-a8fe-9e7d19404cdcTheElegantUniverse.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-14\\ef8b0ac9-88cf-4a3a-99a4-e72f91a457e7Confederacy_of_dunces_cover.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-14\\ef8b0ac9-88cf-4a3a-99a4-e72f91a457e7Confederacy_of_dunces_cover.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-15\\51c77771-ca07-4b94-bd52-23e5a0b0e094Thinking,_Fast_and_Slow.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-15\\51c77771-ca07-4b94-bd52-23e5a0b0e094Thinking,_Fast_and_Slow.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-16\\8ff4df3f-fd97-485a-a0b9-93df1f8dae57Thinking,_Fast_and_Slow.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-16\\8ff4df3f-fd97-485a-a0b9-93df1f8dae57Thinking,_Fast_and_Slow.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-17\\d6a10deb-562f-402b-bdda-1e3fb5040384Thinking,_Fast_and_Slow.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-17\\d6a10deb-562f-402b-bdda-1e3fb5040384Thinking,_Fast_and_Slow.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-18\\c3874d1d-4cfd-4231-aa62-3de8edf96a11Thinking,_Fast_and_Slow.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-18\\c3874d1d-4cfd-4231-aa62-3de8edf96a11Thinking,_Fast_and_Slow.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-19\\49fa4441-3d44-43be-a536-815573e88098Thinking,_Fast_and_Slow.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-19\\49fa4441-3d44-43be-a536-815573e88098Thinking,_Fast_and_Slow.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-20\\62196e29-1017-4ee8-ad91-996be2ccc5f6Thinking,_Fast_and_Slow.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-20\\62196e29-1017-4ee8-ad91-996be2ccc5f6Thinking,_Fast_and_Slow.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-21\\0995d869-6c2a-40b3-ae3a-1a7226efc57aThinking,_Fast_and_Slow.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-21\\0995d869-6c2a-40b3-ae3a-1a7226efc57aThinking,_Fast_and_Slow.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-2\\addf1820-12b2-42b1-a633-93c7e6144f8fdark skies back.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-2\\addf1820-12b2-42b1-a633-93c7e6144f8fdark skies back.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-2\\e77366cc-da30-400e-880e-c45471579b4bdark skies.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-2\\e77366cc-da30-400e-880e-c45471579b4bdark skies.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-3\\246f173b-5004-4323-a340-590a25bf2a0cvanish in the sunset.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-3\\246f173b-5004-4323-a340-590a25bf2a0cvanish in the sunset.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-3\\6f2a69ce-5b24-4705-b50e-65ceaa4b907cvanish in the sunset back.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-3\\6f2a69ce-5b24-4705-b50e-65ceaa4b907cvanish in the sunset back.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-4\\6256ce45-7ca7-423b-b329-eb8630530d83cotton candy.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-4\\6256ce45-7ca7-423b-b329-eb8630530d83cotton candy.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-4\\f9e3c0d0-74ab-4020-9645-1f375a78397acotton candy back.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-4\\f9e3c0d0-74ab-4020-9645-1f375a78397acotton candy back.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-5\\30b5cf18-6930-4384-9059-e1286df30c31rock in the ocean.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-5\\30b5cf18-6930-4384-9059-e1286df30c31rock in the ocean.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-5\\4fb221e2-bb91-4a66-8971-e86b03450405rock in the ocean back.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-5\\4fb221e2-bb91-4a66-8971-e86b03450405rock in the ocean back.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-6\\572a4578-f2fc-4b42-9b48-be0c5147a87fleaves and wonder back.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-6\\572a4578-f2fc-4b42-9b48-be0c5147a87fleaves and wonder back.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-6\\9c75fa25-cc0e-470e-bc2f-6697f54f9e51leaves and wonders.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-6\\9c75fa25-cc0e-470e-bc2f-6697f54f9e51leaves and wonders.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-7\\03a68efe-7b5f-4224-8c31-622cd0d4c029fortune of time.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-7\\03a68efe-7b5f-4224-8c31-622cd0d4c029fortune of time.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-7\\ac2bf371-1f2f-44ac-8d49-5c7fe008211efortune of time back.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-7\\ac2bf371-1f2f-44ac-8d49-5c7fe008211efortune of time back.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\Products\\Product-9\\c7f390f3-413a-4750-b096-0a8a587a0733AGameOfThrones.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-9\\c7f390f3-413a-4750-b096-0a8a587a0733AGameOfThrones.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\book.png",
+      "PackagePath": "staticwebassets\\Images\\book.png"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\Images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\Images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\CodePractice\\C#\\ECommerce\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Demo.PL.props",
+      "PackagePath": "build\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Demo.PL.props",
+      "PackagePath": "buildMultiTargeting\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Demo.PL.props",
+      "PackagePath": "buildTransitive\\Demo.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
